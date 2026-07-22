@@ -46,4 +46,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Neha501/Leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
