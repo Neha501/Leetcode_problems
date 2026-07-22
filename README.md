@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Neha501/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Neha501/Leetcode_problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/Neha501/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/Neha501/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Neha501/Leetcode_problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Neha501/Leetcode_problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
+| [0881-boats-to-save-people](https://github.com/Neha501/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Neha501/Leetcode_problems/tree/master/0148-sort-list) |
+| [0881-boats-to-save-people](https://github.com/Neha501/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## Merge Sort
 |  |
 | ------- |
